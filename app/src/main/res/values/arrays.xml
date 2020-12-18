@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <string-array name="notification">
+        <item>@string/notification_yes</item>
+        <item>@string/notification_no</item>
+    </string-array>
+    <string-array name="notification_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+                            -->
+    <!-- Reply Preference -->
+    <!--
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+    -->
+    <string-array name="array_alarm_entries">
+        <item>설정 안함</item>
+        <item>오전 8시</item>
+        <item>오전 10시</item>
+        <item>낮 12시</item>
+        <item>오후 3시</item>
+        <item>오후 6시</item>
+        <item>오후 8시</item>
+    </string-array>
+    <string-array name="array_alarm_values">
+        <item>0</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>15</item>
+        <item>18</item>
+        <item>20</item>
+    </string-array>
+</resources>

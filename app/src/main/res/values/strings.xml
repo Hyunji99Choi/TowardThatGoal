@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">TowardThatGoal</string>
+
+    <!-- PreferenceCategory -->
+    <string name="GoalCategory_title">목표 정하기</string>
+    <!-- EditTextPreference -->
+    <string name="EditTextPreference_defaultValue">목표를 입력하세요.</string>
+    <string name="EditTextPreference_summary">목표를 입력합니다.</string>
+    <string name="EditTextPreference_title">나의 목표</string>
+
+
+    <!-- PreferenceCategory -->
+    <string name="exposedCategory_title">목표 노출시키기</string>
+    <!-- SwitchPreference -->
+    <string name="notification">상태바</string>
+    <string name="notification_summary">설정 시 상태바에 목표가 노출됩니다.</string>
+
+    <!--
+    <string name="notification_yes">사용함</string>
+    <string name="notification_no">사용안함</string>
+    <string name="alarmSetting">알람</string>
+    -->
+
+    <string name="alarmSetting_summary">정해진 시간에 알림창을 띄웁니다.</string>
+    <string name="alarmSetting">알림 설정</string>
+
+    <string name="alarmDialogTitle">알림 설정 시간</string>
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
